@@ -21,3 +21,6 @@ please note that it displays product and other basic info. it will not work with
 this is basic idea on how to get category , search products in milliseconds from elasticsearch without any sql queries. 
 
 have a look at and get knowledge on how we can utilize elasticsearch.
+
+
+any help required:contact:nagrgk@gmail.com
